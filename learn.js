@@ -61,4 +61,5 @@ let result = age >= 18 ? "Adult" : "Minor";
 console.log("Category:", result);
 
 // 10. Basic user interaction (Browser)
-alert("Welcome to JavaScript Basics!");
+alert("Welcome to JavaScript Basics");
+
