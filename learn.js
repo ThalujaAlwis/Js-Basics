@@ -1,4 +1,4 @@
-// 1. Variable sets
+// 1. Variables
 let name = "Thaluja";
 const age = 22;
 var isStudent = true;
@@ -62,6 +62,7 @@ console.log("Category:", result);
 
 // 10. Basic user interaction (Browser)
 alert("Welcome to JavaScript Basics");
+
 
 
 
